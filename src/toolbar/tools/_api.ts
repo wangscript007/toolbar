@@ -44,3 +44,5 @@ export * from './underline.tool';
 export * from './unlink.tool';
 export * from './vertical-align.tool';
 export * from './video.tool';
+
+export * from './utils/palette';
